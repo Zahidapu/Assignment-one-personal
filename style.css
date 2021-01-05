@@ -1,0 +1,44 @@
+h1{
+    font-size: 50px;
+}
+body{
+    font-family: Ubuntu;
+}
+p{
+    color: dimgray;
+}
+.banner{
+    height: 550px;
+    padding-bottom: 50px;
+
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half img{
+    width: 100%;
+}
+.cyan-text{
+    color: cyan;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-image: linear-gradient(45deg, royalblue,springgreen);
+    border-radius: 5px;
+    font-weight: 700px;
+}
+
+.link-button2{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-image: linear-gradient(45deg,purple, royalblue);
+    border-radius: 5px;
+    font-weight: 700px;
+}
